@@ -1,4 +1,4 @@
-                                              Programmig Paradigms <h1>
+Programmig Paradigms <h1>
 					       "GIT REPOSITORY's"                                         
          [Ricardo Armando Centeno Santos](https://github.com/ricardocenteno18/introstructureprog)
          [Pedro Luis Pech Marquez](https://github.com/pedropech2001/introstructureprograming)
@@ -76,18 +76,18 @@ C programming language provides many built-in functions to read any given input 
 **Identify the operators of structured programming language (Relational/Conditional/Logical):** <h3>
 Here, we used a symbol > and it is called a relational operator and in their simplest form, they produce Boolean results which means the result will be either true or false. Similarly, a programming language provides various relational operators. The following table lists down a few of the important relational operators available in C programming language. 
 
-|   Operator   |                     Description	                 |           Example           |
-|------------|-------------------------------------------------------|---------------------------|	
+|   Operator   |                     Description	             |           Example         |
+|--------------|-------------------------------------------------------|---------------------------|	
 |==|Checks if the values of two operands are equal or not, if yes then condition becomes true.|(A == B) is not true.|
 |!=|Checks if the values of two operands are equal or not, if values are not equal then condition becomes true.|(A != B) is true.|
 |>|Checks if the value of left operand is greater than the value of right operand, if yes then condition becomes true.|(A > B) is not true.|
 |<|Checks if the value of left operand is less than the value of right operand, if yes then condition becomes true.|(A < B) is true.|
 |>=|Checks if the value of left operand is greater than or equal to the value of right operand, if yes then condition becomes true.|(A >= B) is not true.|
-|<=|Checks if the value of left operand is less than or equal to the value of right operand, if yes then condition becomes |true.|(A <= B) is true.|
+|<=|Checks if the value of left operand is less than or equal to the value of right operand, if yes then condition becomes true.|(A <= B) is true.|
 
-Here, we will show you one example of C Programming which makes use of if conditional statement. Though this statement will be discussed later in a separate chapter, but in short, we use if statement to check a condition and if the condition is true, then the body of if statement is executed, otherwise the body of if statement is skipped.
-  -If 
-  -Else 
+Here, we will show you one example of C Programming which makes use of if conditional statement. Though this statement will be discussed later in a separate chapter, but in short, we use if statement to check a condition and if the condition is true, then the body of if statement is executed, otherwise the body of if statement is skipped.<br>
+-If <br>
+-Else <br>
 
 **Logical Operators:** <h3>
 Logical operators are very important in any programming language and they help us take decisions based on certain conditions. Suppose we want to combine the result of two conditions, then logical AND and OR logical operators help us in producing the final result.
