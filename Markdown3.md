@@ -141,6 +141,6 @@ int main()
 	
 [**Ricardo Armando Centeno Santos**](https://github.com/ricardocenteno18/introstructureprog/blob/master/introstructureprog.md)
 				
-[**Pedro Luis Pech Marquez**](https://github.com/pedropech2001/introstructureprograming)
+[**Pedro Luis Pech Marquez**](https://github.com/pedropech2001/markdown/blob/master/subprogram3.md)
 
 [**Neguib Habib Metri Guevara**](https://github.com/Neguib-Metri/introstructureprog/blob/master/Markdown3.md)   
